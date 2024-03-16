@@ -6,7 +6,7 @@
 .main{
     width: 100%;
     background: linear-gradient(to top, rgba(0, 0,0, 0.5)50%, rgba(0, 0, 0, 0.5)50%);
-    background-image: url(wallpaper\ 6.avif);
+    background-image: url(wallpapper.avif);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -62,7 +62,7 @@
  }
 
  ul li a:hover{
-    color: rgb(168, 25, 168);
+    color: rgb(198, 152, 36);
  }
  .search{
     width: 300px;
@@ -73,7 +73,7 @@
     width: 200px;
     height: 40px;
     background: transparent;
-    border: 1px solid rgb(168, 25, 168);
+    border: 1px solid rgb(198, 152, 36);
     margin-top: 30px;
     color: #fff;
     border-right: none;
@@ -87,8 +87,8 @@
  .btn{
     width: 100px;
     height: 40px;
-    background: rgb(168, 25, 168);
-    border: 2px solid rgb(168, 25, 168);
+    background: rgb(198, 152, 36);
+    border: 2px solid rgb(198, 152, 36);
     margin-top: 30px;
     color: #fff;
     font-size: 1em;
@@ -129,7 +129,7 @@
  .content .on{
     width: 160px;
     height: 40px;
-    background-color: rgb(168, 25, 168);
+    background-color: rgb(198, 152, 36);
     border: none;
     margin-bottom: 10px;
     margin-left: 40px;
@@ -162,7 +162,7 @@
  .form h2{
     width: 200px;
     text-align: center;
-    color: rgb(168, 25, 168);
+    color: rgb(198, 152, 36);
     font-size: 22px;
     background-color: #fff;
     border-radius: 10px;
@@ -176,7 +176,7 @@
     width: 100%;
     height: 35px;
     background: transparent;
-    border-bottom: 1px solid rgb(168, 25, 168);
+    border-bottom: 1px solid rgb(198, 152, 36);
     border-top: none;
     border-right: none;
     border-left: none;
@@ -195,13 +195,13 @@
  }
  .ab{
     text-decoration: none;
-    color: rgb(168, 25, 168);
+    color: rgb(198, 152, 36);
  }
 
  .btn-login{
     width: 240px;
     height: 40px;
-    background-color: rgb(168, 25, 168);
+    background-color: rgb(198, 152, 36);
     border: none;
     margin-top: 20px;
     color: #fff;
@@ -210,7 +210,7 @@
  }
  .btn-login:hover{
     background-color: #fff;
-    color: rgb(168, 25, 168);
+    color: rgb(198, 152, 36);
  }
 
  .btn-login a{
@@ -226,7 +226,7 @@
  }
  .form.link a{
     text-decoration: none;
-    color:  rgb(168, 25, 168);
+    color:  rgb(198, 152, 36);
  }
  .liw{
     padding-top: 14px;
@@ -244,7 +244,7 @@
  }
 
  .icons ion-icon:hover{
-    color:  rgb(168, 25, 168);;
+    color:  rgb(198, 152, 36);
  }
 
  .icons{
